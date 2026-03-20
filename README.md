@@ -11,12 +11,6 @@
   - Flattened into vectors of size 196
 - Output: 10-class classification
 
-
-## TorchMPS Model Details
-
-- TorchMPS is a PyTorch-based implementation of Matrix Product State (MPS) models for machine learning.
-- It represents inputs as a chain of local feature vectors and contracts them through a tensor network.
-
 ### Key parameters used:
 
 Number of training data were kept to be 1000 and test data 500 throughout the experiments
